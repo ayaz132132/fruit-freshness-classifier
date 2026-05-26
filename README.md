@@ -8,6 +8,8 @@ This repository contains the final code for my Pattern Recognition project. It c
   * **CNN (Custom Architecture):** Built with TensorFlow/Keras, utilizing Dropout and MaxPooling for optimized pattern recognition.
 * **Environment:** Developed and trained using Google Colab.
 
+* **Dataset:** [Download the Fruit & Vegetable Dataset Here](https://www.kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset)
+
 ## 🚀 How to Run the Code
 Because this project utilizes heavy datasets and Google Drive mounting, it is highly recommended to run it in Google Colab.
 
